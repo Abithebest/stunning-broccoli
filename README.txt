@@ -6,10 +6,10 @@ This file will mostly be checkboxes and projections on what I should work on.
 # Project
 ## Phase 1 - Simulation Engine
 **Objective**: Create the foundation that everything else will depend on.
-[ ] Set up CMake
-[ ] Establish directory and class structure
-[ ] Create a simulation loop
-[ ] Implement simulation clock
+[x] Set up CMake
+[x] Establish directory and class structure
+[x] Create a simulation loop
+[x] Implement simulation clock
 [ ] Add seeded random number generation
 [ ] Implement pause, resume, and single-tick advancement
 [ ] Add configurale simulation speed
