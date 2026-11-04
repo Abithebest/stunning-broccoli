@@ -10,7 +10,7 @@ This file will mostly be checkboxes and projections on what I should work on.
 [x] Establish directory and class structure
 [x] Create a simulation loop
 [x] Implement simulation clock
-[ ] Add seeded random number generation
+[x] Add seeded random number generation
 [ ] Implement pause, resume, and single-tick advancement
 [ ] Add configurale simulation speed
 [ ] Create a basic terminal status display

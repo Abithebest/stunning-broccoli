@@ -6,6 +6,7 @@ add_executable(Simulation src/main.cpp)
 
 target_sources(Simulation PRIVATE
     src/core/Simulation.cpp
+    src/core/Random.cpp
 )
 
 target_include_directories(Simulation PRIVATE 

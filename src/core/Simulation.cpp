@@ -15,8 +15,6 @@ Simulation::Simulation() {
     //
 }
 
-Simulation::~Simulation() {}
-
 void Simulation::run() {
     running = true;
     std::cout << "Simulation running." << std::endl;

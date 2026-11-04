@@ -8,7 +8,6 @@ class Simulation {
 
     public:
         Simulation();
-        ~Simulation();
 
         void run();
         void stop();
